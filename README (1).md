@@ -45,4 +45,4 @@ A curated list of resources for generative AI. This includes tutorials, examples
 | [e2b Cookbook](https://github.com/e2b-dev/e2b-cookbook/tree/main/examples) | 📚 **e2b Cookbook**: Examples and recipes from the e2b cookbook to help you get started with various AI and ML tasks. |
 | [Google Colab Notebooks](https://colab.google/notebooks/) | 📝 **Google Colab Notebooks**: Create and share Jupyter notebooks with free access to GPUs. Perfect for experimenting with AI models and collaborating with others. |
 
-> Thanks for reading. If you found this list useful, Follow [Izam Mohammed](https://github.com/izam-mohammed) for more ❤️.  
+> Thanks for reading. If you found this list useful, Follow [Abdul Musawir](https://github.com/Musawir456) for more ❤️.  
